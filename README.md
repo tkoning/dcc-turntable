@@ -1,3 +1,5 @@
+
+
 # dcc-turntable
 DCC control of a fleischmann turntable
 
@@ -8,3 +10,6 @@ DCC input is by means of the standard mynabay optocoupler circuit
 For indexing the turntable a power sensing circuit is used
 
 code is annotated in dutch
+
+the turntabe can be seen on youtube
+https://www.youtube.com/watch?v=R1SMiSs2mZU

@@ -22,5 +22,5 @@ https://www.youtube.com/watch?v=R1SMiSs2mZU
 
 Schematic of the decoder is in the repository.
 
-New software version 5 : position of bridge is retained at arduino shutdown
+New software version 6 : position of bridge is retained at arduino shutdown by setting eeprom parameter in code
 

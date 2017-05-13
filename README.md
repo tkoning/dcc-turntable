@@ -19,6 +19,9 @@ code is annotated in dutch.
 
 the turntable can be seen  in action on youtube.
 https://www.youtube.com/watch?v=R1SMiSs2mZU
+https://www.youtube.com/watch?v=gE1vPq5jKME
+https://www.youtube.com/watch?v=S2jX1PM-Gi4
+
 
 Schematic of the decoder is in the repository.
 

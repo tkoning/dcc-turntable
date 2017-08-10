@@ -32,3 +32,6 @@ New software version 6 : position of bridge is retained at arduino shutdown by s
 
 erratum : relay's must de mounted on the bottomside of the printed circuit board due to a design mistake regarding polarity of the relay coil.  Increase resitor r6 (dcc optocoupler circuit to 4,7 k)
 
+I have noticed the fleischmann turntable electric engine to be unreliable. Especialy when cold the engine can cause short circuits
+A new software version (vs10) cuts the power after a 3 second period
+For this to work the positive power line has to be connected via the spare connecors of the aux relais
